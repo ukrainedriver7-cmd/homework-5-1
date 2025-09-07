@@ -1,0 +1,56 @@
+/* Стили для .section1 .container */
+.section1 .container {
+    background-color: rgba(245, 245, 245, 0.5);
+    background-color: rgba(158, 34, 34, 0.5);
+}
+
+/* Стили для .section1 .left-side */
+.section1 .left-side {
+    max-width: 659px;
+    padding: 68px 85px 40px;
+}
+
+/* Стили для h3 */
+h3 {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #3D3D3D;
+    margin-bottom: 9px;
+}
+
+/* Стили для h1 */
+h1 {
+    font-weight: 900;
+    font-size: 70px;
+    line-height: 70px;
+    margin-bottom: 9px;
+    text-transform: uppercase;
+    color: #3D3D3D;
+}
+
+/* Стили для span внутри h1 */
+h1 span {
+    color: #46A358;
+}
+
+/* Стили для p */
+p {
+    font-size: 14px;
+    line-height: 24px;
+    color: #727272;
+    margin-bottom: 44px;
+}
+
+/* Стили для кнопки "SHOP NOW" */
+.btn {
+    background-color: #46A358;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    font-weight: 500;
+    cursor: pointer;
+    text-transform: uppercase;
+}
